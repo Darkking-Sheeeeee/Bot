@@ -8,10 +8,8 @@
  
 </details>
 
-### Atencion!! TRADUCIDO POR SAMU330
-¿QUIERES VOLVER A CARGAR EL SCRIPT? AMO MI NOMBRE / ENLACE CHANEL .... NO CAMBIE LA INFORMACIÓN !!!
 
-## NOTA:>
+## NOTA:
 NO VENDE / COMPRE GUIÓN, ESTE GUIÓN ES 100% GRATIS PARA LOS USUARIOS DE TERMUX
 </div>
 
@@ -27,7 +25,7 @@ bash
 ''
 INSTALACIÓN:
 
-> Si no tiene el APK de Termux, descárguelo de Playstore
+> <p>Si no tiene el APK de Termux, descárguelo de Playstore<p>
 > ingrese el termux apk y escriba a continuación!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
